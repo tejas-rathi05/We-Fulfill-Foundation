@@ -9,9 +9,6 @@ Key Technologies:
     TypeScript: Ensuring type safety and code quality.
     Tailwind CSS: For a responsive and modern design.
     Axios: Handling API requests seamlessly.
-    PhonePe: Payment Gateway integration.
+    RazorPay: Payment Gateway integration.
     AWS Lambda: Serverless API using AWS lambda function. 
 
-Explore the project on GitHub: We-Fulfill Foundation. Your feedback and contributions are greatly appreciated!
-
-## Certification for completing my internship at WeFulfillFoundation: https://drive.google.com/file/d/1m3cOvvCZ5Tt-_gInjUxeYYb0HJducRC_/view?usp=drivesdk
